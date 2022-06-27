@@ -18,5 +18,6 @@
     "jsx": "react-jsx",
     "baseUrl": "src"
   },
-  "include": ["src/assets", "custom.d.ts"]
+  "include": ["src/assets", "custom.d.ts"],
+  "exclude": ["node_modules"]
 }
